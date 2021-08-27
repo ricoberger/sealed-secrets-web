@@ -1,3 +1,9 @@
+> **Attention:** [@bakito](https://github.com/bakito) maintains an improved version of **Sealed Secrets Web** in the following repository: [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web).
+>
+> The new Docker image can be found at [ghcr.io/bakito/sealed-secrets-web](ghcr.io/bakito/sealed-secrets-web) or [quay.io/bakito/sealed-secrets-web](quay.io/bakito/sealed-secrets-web). The new Helm chart is available at [https://bakito.github.io/helm-charts/](https://bakito.github.io/helm-charts/).
+>
+> A big thank you to [@bakito](https://github.com/bakito) for taking over the ownership of this project.
+
 <div align="center">
   <img src="./assets/logo.png" />
   <br><br>
